@@ -4,12 +4,10 @@
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>aboutot</title>
  </head>
  <body>
-    
- </body>
- <?php
+    <?php
  echo"<h1>About</h1>";
  $indexedArray =[
     ["name"=>"Lorem ipsum dolor sit amet."],
@@ -20,4 +18,8 @@
     echo "<p>$value[name]</p>";
 };
  ?>
+    <a href="/contact.html">go to contact</a>
+    <p></p>
+    <a href="/index.html">go to index</a>
+ </body>
  </html>
