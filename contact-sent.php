@@ -14,7 +14,7 @@
     <?php
     echo "your email:",$_POST["email"];
     ?>
-    <p></p>r
+    <p></p>
     <?php
     echo "your written feedback:",$_POST["feedback"]
     ?>
