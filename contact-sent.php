@@ -19,6 +19,6 @@
     echo "your written feedback:",$_POST["feedback"]
     ?>
     <p></p>
-    <a href="/contact.html"> go back to contact</a>
+    <a href="/contact.html"> go back tto contact</a>
 </body>
 </html>
